@@ -13,6 +13,8 @@
 | 月胜率 | 56.60% |
 | Alpha（年化，Newey-West 修正） | 9.76%（t=2.58, p=0.0098） |
 
+![策略 vs 市场累计收益](output/figures/equity_curve.png)
+
 ## 策略概述
 
 每月执行以下操作：
